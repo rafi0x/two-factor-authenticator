@@ -2,7 +2,7 @@
 
 _An api for generate two-factor authentication code and verify._
 
-### features:
+### Features:
 
 - code auto delete after 5 minutes and after verfication.
 - send authentication code to user by mail
