@@ -1,6 +1,6 @@
 ## Two-factor authentication
 
-_An api for generate two-factor authentication code and verify._
+_An API for generate two-factor authentication code and verify._
 
 ### Features:
 
