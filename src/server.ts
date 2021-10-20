@@ -17,6 +17,7 @@ middlewares(app);
 // routers
 app.use(twofaRouter);
 
+// server listen
 app.listen(process.env.PORT, function () {
   console.log(`server on ${process.env.PORT}`);
 });
