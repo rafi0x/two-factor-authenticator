@@ -26,5 +26,5 @@ const twoFAmailTemplate = (to: string, name: string, code: number) => {
   };
   return mailBody;
 };
-
+//  comment
 export default { mailTransporter, twoFAmailTemplate };
